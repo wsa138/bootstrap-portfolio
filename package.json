@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsa138/bootstrap-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wsa138/bootstrap-practice/issues"
+  },
+  "homepage": "https://github.com/wsa138/bootstrap-practice#readme"
+}
