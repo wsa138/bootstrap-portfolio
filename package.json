@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/wsa138/bootstrap-practice/issues"
   },
-  "homepage": "https://github.com/wsa138/bootstrap-practice#readme"
+  "homepage": "https://github.com/wsa138/bootstrap-practice#readme",
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-config-prettier": "^8.3.0"
+  }
 }
