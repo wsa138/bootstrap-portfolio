@@ -1,3 +1,7 @@
-$(document).ready(function () {
-  $('.header').height($(window).height());
-});
+$('.header').height($(window).height());
+
+$('#email-address').click(displayAddress);
+
+function displayAddress() {
+  alert('wsaddesso@gmail.com');
+}

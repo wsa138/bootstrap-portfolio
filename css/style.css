@@ -75,6 +75,19 @@
   border: 2px solid;
 }
 
-.contact p i {
-  font-size: 3em;
+/*Contact*/
+
+.contact {
+  margin: 2em;
+  border-top: 4px solid;
+}
+
+.contact .text-center {
+  margin-bottom: 1em;
+  padding-top: 1em;
+}
+
+.contact .btn {
+  font-size: 2em;
+  width: 2em;
 }
