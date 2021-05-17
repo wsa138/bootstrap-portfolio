@@ -29,6 +29,8 @@
   border: 1px solid;
 }
 
+/*About*/
+
 .about {
   margin: 4em 0;
   padding: 1em;
@@ -40,7 +42,7 @@
 }
 
 .about img {
-  height: 85%;
+  height: 70%;
   width: 100%;
   border-radius: 50%;
 }
@@ -58,4 +60,17 @@
 
 .about .about-text p {
   line-height: 2;
+}
+
+/*Portfiolio*/
+
+.portfiolio h1 {
+  margin: 2em;
+}
+
+.portfolio img {
+  height: 15rem;
+  width: 100%;
+  margin: 1em;
+  border: 2px solid;
 }
