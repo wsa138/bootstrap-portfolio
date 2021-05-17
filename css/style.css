@@ -74,3 +74,7 @@
   margin: 1em;
   border: 2px solid;
 }
+
+.contact p i {
+  font-size: 3em;
+}
