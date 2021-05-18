@@ -70,6 +70,13 @@ a {
 
 /*Portfiolio*/
 
+.portfolio {
+  background-image: url('../images/background-desk.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+
 .portfiolio h1 {
   margin: 2em;
 }
@@ -79,6 +86,13 @@ a {
   width: 100%;
   margin: 1em;
   border: 2px solid;
+}
+
+/*Skills*/
+
+.skills {
+  margin: 2em;
+  border-top: 4px solid;
 }
 
 /*Contact*/
@@ -94,6 +108,7 @@ a {
 }
 
 .contact .btn {
+  margin: 0.5em;
   font-size: 2em;
   width: 2em;
 }
