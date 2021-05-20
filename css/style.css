@@ -133,35 +133,45 @@ a {
   height: 15rem;
   width: 100%;
   margin: 1em;
-  border: 2px solid;
+  border: 2px solid #ff6542;
 }
 
 .project-name {
   display: block;
   text-align: center;
+  color: #006bff;
 }
 
 /*Skills*/
 
 .skills {
-  margin: 2em;
-  border-top: 4px solid;
+  color: #006bff;
+  text-align: center;
+}
+
+.skills h1 {
+  margin-top: 1em;
+  padding: 1em;
+  border-top: 5px solid #ff6542;
 }
 
 /*Contact*/
 
-.contact {
-  margin: 2em;
-  border-top: 4px solid;
-}
-
 .contact .text-center {
-  margin-bottom: 1em;
-  padding-top: 1em;
+  margin-top: 1em;
+  border-top: 5px solid #ff6542;
+  padding: 1em;
+  color: #006bff;
 }
 
 .contact .btn {
   margin: 0.5em;
   font-size: 2em;
   width: 2em;
+  background-color: #006bff;
+}
+
+.contact .btn:hover {
+  background-color: white;
+  color: #006bff;
 }
