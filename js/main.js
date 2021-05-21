@@ -15,3 +15,5 @@ $('.navbar a').click(function () {
     1000
   );
 });
+
+// Todo: When 'see more' button is clicked, move to the about me section.
