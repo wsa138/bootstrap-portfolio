@@ -104,9 +104,8 @@ a {
 }
 
 .about img {
-  height: auto;
-  width: 100%;
-  border-radius: 50%;
+  display: block;
+  margin: auto;
 }
 
 .about-text {
