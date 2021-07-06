@@ -9,7 +9,7 @@ $('.navbar a').click(function () {
   );
 });
 
-// Todo: When 'see more' button is clicked, move to the about me section.
+// When 'see more' button is clicked, move to the about me section.
 $('#see-more-btn').click(() => {
   let scrollTo = $('.about').prop('scrollHeight');
   $('html').animate({ scrollTop: scrollTo }, 1000);
